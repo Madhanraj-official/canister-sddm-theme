@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=canister-linux-sddm-theme
+Description=Canister Linux SDDM Theme
+Author=Madhanraj
+License=GPLv.3
+Type=sddm-theme
+Version=1.0
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=canisterlinux@gmail.com
+Theme-Id=canister-linux-sddm-theme
